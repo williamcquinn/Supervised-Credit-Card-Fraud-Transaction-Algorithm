@@ -1,0 +1,2 @@
+# Supervised-Credit-Card-Fraud-Transaction-Algorithm
+Built a supervised fraud model on the card transaction data, this repository includes data cleaning, variable creation, training, testing, OOT, and evaluation and comparison of Logistic Regression, Random Forest, Gradient Boosted Trees, and Neural Network algorithms. Hundreds of candidate variables were engineered and selected through the application of a filter and wrapper method.
